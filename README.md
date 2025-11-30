@@ -14,4 +14,4 @@ Prueba exitosa del endpoint raíz (`/`) desde Postman.
 
 ## Imagen en Docker Hub
 Imagen publicada y disponible en el repositorio de Docker Hub.
-![Repositorio en Docker Hub](img-contenedor-corriendo/ContenedorCorriendo04.jpg)
+![Repositorio en Docker Hub](img-contenedor-corriendo/DockerHub.jpg)
